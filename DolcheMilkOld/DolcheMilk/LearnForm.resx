@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label9.Text" xml:space="preserve">
+    <value>На тренинге сотрудники вырабатывают умения необходимые для эффективной работы в своей должности.
+
+Это активный способ обучения для приобретения или совершенствования какого-либо навыка, умения. Основанная цель любой тренировки — отточить на практике полученные знания и навыки, то есть любой тренинг нацелен на отработку навыков. В ходе тренинга основная цель довести нужные навыки до автоматизма. Тренинг состоит на 30% из теории и на 70% из практических занятий.
+
+В него входит самостоятельная работа, работа в группах, решение кейсов, дискуссии и т. п. На практических занятиях отрабатываются приемы для решения сложных ситуаций. Каждый участник получает обратную связь. Анализируются все плюсы и минусы. Участник может подкорректировать свои действия на основе такого «взгляда со стороны», и снова тренировать навык.
+
+Ведущий тренинга старается, чтобы работали сами участники тренинга.
+
+Количество участников тренинга не менее шести, но не более двенадцати — пятнадцати человек.
+
+Эффективность тренинга измеряется реальными изменениями поведения. Появляются отработанные навыки, которых не было до тренинга, и ощущение «да, теперь я умею».</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Цель семинара обсудить вопросы связанные с профессиональной деятельностью сотрудников и сформировать у сотрудника определенную позицию по обсуждаемому вопросу.
+
+Семинар — это вид групповых занятий, на котором участники обсуждают заранее подготовленные сообщения, доклады. У него есть достаточно большое сходство с лекцией, но на семинаре обязательно идет обсуждение.</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Задача ассессмент центра выявление профессионального и творческого потенциала работника и определения степени соответствия его предполагаемой должности. По итогам ассессмент-центра определяются основные направления развития сотрудника и составляется план его развития.
+
+Центр оценки (ассессмент центр) – комплексный метод диагностики потенциальной успешности в профессиональной деятельности, включающий набор различных частных методов, основой которого является оценка поведения участников группой наблюдателей экспертов в моделирующих упражнениях.
+
+Цель ЦО – оценка потенциальной успешности сотрудника в профессиональной деятельности. Эта деятельность будет задаваться конкретно (например, должность в организации) или по типу деятельности (например, определенный уровень управления, в случае формирования кадрового резерва).
+
+В ЦО не оценивается эффективность выполнения человеком его текущих должностных обязанностей. Даже в ситуации отбора на конкретную должность в ЦО оценивается потенциальная успешность участника, а не его прошлые результаты.
+
+Задачи ЦО:
+
+Отбор (например: найм, ротация, отбор в кадровый резерв, управленческую команду).
+
+Определение направлений индивидуального развития (например, составление индивидуальных планов развития, профориентация).
+
+Определение направлений развития совместной деятельности в организации (например, формирование управленческой команды, разработка программ корпоративного обучения, разработка «профилей должностей»).
+
+Обучение в процессе ЦО (например, развитие оцениваемых в ЦО компетенций/критериев, профессиональная адаптация).
+
+Эти задачи не ограничиваются приведенным списком, возможно появление новых. При этом все задачи, решаемые ЦО, должны соответствовать стратегии развития организации и не ущемлять права участников ЦО.</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Цель адаптации как можно быстрее ввести нового сотрудника в рабочий процесс и трудовой коллекти.
+
+Адаптация - процесс ознакомления работника с новой организацией, приспособления к новому месту, коллективу и характеру деятельности компании, а также изменения его поведения, в соответствии с требованиями и правилами корпоративной культуры организации.
+
+Адаптация новых сотрудников начинается с отдела подбора персонала, где новому работнику на этапе собеседования предоставляется базовая информация о предприятии: виды деятельности, документы и процедуры, регулирующие трудовые отношения и социальные гарантии. Основной целью собеседования является выяснить, подходит ли компания сотруднику, а сотрудник - компании.
+
+Под процесс адаптации попадают также сотрудники, принимаемые на соответствующую должность в порядке перевода из другого подразделения.
+
+При положительном результате собеседования руководитель подразделения согласовывает кандидатуру с генеральным директором. В зависимости от должности определяется вид адаптационной программы и закрепление наставника.
+
+Процесс адаптации включает в себя две взаимосвязанные стороны: профессиональную и социально-психологическую:
+
+Профессиональная адаптация выражается в овладении работником специальностью, профессиональными навыками.
+
+Социально-психологическая адаптация - это адаптация к коллективу и его нормам, к руководству, коллегам и экономическим реалиям предприятия.
+
+На предприятиях Группы компаний «Белая Долина» официально утверждено наставничество. За каждым вновь принятым сотрудником закрепляется наставник, который вводит в курс дела, отвечает за профессиональную и социально-психологическую адаптацию.</value>
+  </data>
+</root>
